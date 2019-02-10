@@ -3,7 +3,7 @@
 
 // Customize your settings and add new ones here
 Settings[Keys.Host] = "finch204.com";
-Settings[BlogKeys.Title] = "Home";
+Settings[BlogKeys.Title] = "Chronicles of Finch";
 Settings[BlogKeys.Description] = "Chronicles of Finch";
 Settings[BlogKeys.Intro] = "An online gaming journal by Finch204";
 Settings[BlogKeys.Image] = "/images/journal-header.jpg";

@@ -5,6 +5,8 @@ Tags:
    - Ace Combat 7
    - Notes
    - Flight Log
+   - F-14D Super Tomcat
+   - F-16C Fighting Falcon
 ---
 <img src="/images/AceCombat7-f16c.jpg" class="img-float-right" alt="F-16C Fighting Falcon" title="F-16C Fighting Falcon" style="max-width: 40%; margin-top: 1.5em;">
 

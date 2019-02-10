@@ -4,6 +4,8 @@ Tags:
    - Ace Combat 7
    - Notes
    - Flight Log
+   - F-14D Super Tomcat
+   - A-10C Thunderbolt II
 ---
 ### Flying the F-14D Super Tomcat
 
