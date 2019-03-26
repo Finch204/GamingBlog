@@ -3,6 +3,7 @@
   }
   .intro-header .site-heading .subheading {
     line-height: 1.6;
+    font-weight: bold;
   }
   .intro-header .site-heading *, .intro-header .post-heading * {
     text-shadow: 0 0 80px rgba(0,0,0,0.8);
@@ -10,7 +11,7 @@
   .intro-header.background--light .site-heading *, .intro-header.background--light .post-heading * {
     text-shadow: 0 0 100px black;
   }
-  .intro-header.background--light *, .navbar:not(.is-fixed).background--light * { color: white !important; }
+  .intro-header.background--light *, .navbar:not(.is-fixed).background--light * { color: white; }
   hr.background--light { border-color: #000 !important; }
   .btn.background--light { color: initial !important }
   .btn {
