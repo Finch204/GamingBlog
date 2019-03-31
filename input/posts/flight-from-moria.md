@@ -1,4 +1,4 @@
-Title: Flight From Moria
+Title: Lord of the Rings LCG - Flight From Moria
 Published: 03/24/2019
 Tags:
    - Lord of the Rings
@@ -16,8 +16,7 @@ Lastly, I made some slight modifications to the deck that helped me win. One of 
 
 Here is the deck I used that allowed me beat this quest.
 
-<p><strong>Flight from Moria</strong></p>
-<p><strong>Main Deck</strong></p>
+<p><strong>Deck Name: Flight from Moria</strong></p>
 <p>
 <span style="text-decoration: underline;"><strong>Hero (3)</strong></span>
 <br>
@@ -77,11 +76,11 @@ Here is the deck I used that allowed me beat this quest.
 2x <a href="http://ringsdb.com/card/01023" style="color: #AD62A5;" target="_blank">Sneak Attack</a> (Core Set)
 </p>
 <p>
-3  Heroes,  50  Cards
-<br>
-Cards up to Foundations of Stone
+3  Heroes, 50 Cards - Cards up to Foundations of Stone
 </p>
 <p>Deck built on <a href="http://ringsdb.com" target="_blank">RingsDB</a>.</p>
+
+<hr />
 
 And here are some pictures of my playthrough from IG.
 
