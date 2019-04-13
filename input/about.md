@@ -10,4 +10,4 @@ I realized that those notes, thoughts, ideas, might be helpful to other gamers a
 
 ### Contact Me
 
-The best way to contact me is to send me a message on [Instagram](https://www.instagram.com/finch204/). You can also send me a message on [Twitter](https://twitter.com/finch204). Lastly, you can send me an email at *finch204 [at] outlook.com*.
+The best way to contact me is to send me an email at *finch204 [at] outlook.com*. You can also send me a message on [Instagram](https://www.instagram.com/finch204/) or [Twitter](https://twitter.com/finch204).
